@@ -1,2 +1,2 @@
-# Image-Editing-System
+# Color Transfer Between Images with Skew Correction
 The final project of 11010CS 452000 Introduction to Image Processing.
